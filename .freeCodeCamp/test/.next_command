@@ -47,3 +47,4 @@ read QUESTION1
 ./questionnaire.sh
 echo --help
 man echo
+./questionnaire.sh
