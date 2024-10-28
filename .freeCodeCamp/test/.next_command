@@ -165,3 +165,5 @@ help until
 ./fortune.sh
 help [[
 [[ hello == hello ]]
+[[ hello == hello ]]
+[[ hello == world ]]
