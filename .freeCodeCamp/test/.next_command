@@ -62,3 +62,10 @@ man if
 help if
 ./countdown.sh arg1
 ./countdown.sh arg2
+./countdown.sh arg1
+ls --color=auto
+cd countdown.sh
+cd countdown.sh ads
+./countdown.sh arg1
+./countdown.sh arg1
+./countdown.sh arg
