@@ -45,3 +45,4 @@ read QUESTION1
 ./questionnaire.sh
 ./questionnaire.sh
 ./questionnaire.sh
+echo --help
