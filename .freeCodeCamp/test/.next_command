@@ -43,3 +43,4 @@ ls --color=auto -l
 ./questionnaire.sh
 read QUESTION1
 ./questionnaire.sh
+./questionnaire.sh
